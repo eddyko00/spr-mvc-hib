@@ -121,5 +121,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+    <name>spr-mvc-hib</name>
 </project>
